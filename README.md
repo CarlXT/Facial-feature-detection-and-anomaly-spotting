@@ -1,2 +1,2 @@
 # Facial-feature-detection-and-anomaly-spotting
-This project aimed to perform facial landmark analysis using keypoint detection techniques to compute facial angles and structural ratios. 
+Designed and implemented facial landmark analysis using keypoint detection techniques to compute facial angles and structural ratios. Results support use cases in medical screening, aesthetic planning, and anomaly recognition.
